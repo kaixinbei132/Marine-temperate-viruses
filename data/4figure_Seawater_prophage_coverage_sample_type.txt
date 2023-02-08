@@ -1,0 +1,4 @@
+Sample_type	Genome_count	With_prophage_count	Coverage
+Bathypelagic-Seawater	1094	578	0.5283363802559415
+Epipelagic-Seawater	5907	1841	0.3116641273065854
+Mesopelagic-Seawater	460	177	0.3847826086956522

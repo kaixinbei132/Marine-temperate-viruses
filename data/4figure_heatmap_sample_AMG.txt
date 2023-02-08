@@ -1,0 +1,12 @@
+Sample	Epipelagic-Seawater	Mesopelagic-Seawater	Bathypelagic-Seawater	Epipelagic-Sediment	Mesopelagic-Sediment	Bathypelagic-Sediment
+CAZY	0.35	1	0.555555556	0.25	0	0.933333333
+central carbon	0.05	0	0	0.25	0	0
+pyruvate metabolism	0	0	0	0.25	0	0
+Amino Acid	0.05	0	0	0	0	0
+Peptidase	0.2	0	0.333333333	0.25	0	0
+C1	0	0	0	0.25	0	0.066666667
+Photosynthesis	0.35	0	0	0	0	0
+Sulfur	0	0	0	0	0	0
+Electron transport Chain	0	0	0	0	0	0
+Information systems	0.1	0	0	0	0	0
+Transporters	0	0	0.222222222	0	0	0.066666667

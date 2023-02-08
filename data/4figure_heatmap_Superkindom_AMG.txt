@@ -1,0 +1,12 @@
+Sample	Bacteria	Archaea
+CAZY	0.538461538	0.75
+central carbon	0.025641026	0
+pyruvate metabolism	0.012820513	0
+Amino Acid	0.064102564	0
+Peptidase	0.102564103	0.25
+C1	0.025641026	0
+Photosynthesis	0.102564103	0
+Sulfur	0.012820513	0
+Electron transport Chain	0.025641026	0
+Information systems	0.076923077	0
+Transporters	0.115384615	0

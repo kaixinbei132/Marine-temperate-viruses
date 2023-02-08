@@ -1,0 +1,4 @@
+sample_type	Count
+Bathypelagic-Seawater	1094
+Epipelagic-Seawater	5907
+Mesopelagic-Seawater	460

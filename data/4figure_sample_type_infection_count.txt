@@ -1,0 +1,7 @@
+sample	sample_type	count
+Seawater	Bathypelagic-Seawater	3.013840830449827
+Seawater	Epipelagic-Seawater	2.356328082563824
+Seawater	Mesopelagic-Seawater	2.3220338983050848
+Sediment	Bathypelagic-Sediment	2.6422764227642275
+Sediment	Mesopelagic-Sediment	3.018181818181818
+Sediment	Epipelagic-Sediment	2.3133333333333335

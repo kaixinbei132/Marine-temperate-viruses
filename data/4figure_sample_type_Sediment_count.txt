@@ -1,0 +1,4 @@
+sample_type	Count
+Bathypelagic-Sediment	1335
+Mesopelagic-Sediment	113
+Epipelagic-Sediment	316

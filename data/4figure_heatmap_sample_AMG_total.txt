@@ -1,0 +1,3 @@
+Sample	Epipelagic-Seawater	Mesopelagic-Seawater	Bathypelagic-Seawater	Epipelagic-Sediment	Mesopelagic-Sediment	Bathypelagic-Sediment
+Categorized	0.323529412	0.25	0.25	0.444444444	0	0.615384615
+Others	1.073529412	0.75	0.8	0.666666667	1	0.653846154

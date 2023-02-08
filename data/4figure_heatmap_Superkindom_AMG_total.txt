@@ -1,0 +1,3 @@
+Sample	Bacteria	Archaea
+Categorized	0.367965368	0.5
+Others	0.9004329	0.625

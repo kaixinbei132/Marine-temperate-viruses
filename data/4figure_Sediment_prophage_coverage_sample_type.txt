@@ -1,0 +1,4 @@
+Sample_type	Genome_count	With_prophage_count	Coverage
+Bathypelagic-Sediment	1335	615	0.4606741573033708
+Mesopelagic-Sediment	113	55	0.48672566371681414
+Epipelagic-Sediment	316	150	0.47468354430379744
